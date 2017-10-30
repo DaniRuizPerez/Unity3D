@@ -1,0 +1,1 @@
+Assets/MyAssets/HUDCanvas.prefab

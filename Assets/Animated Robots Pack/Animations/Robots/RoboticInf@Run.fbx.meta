@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 0c02f807902924b4e8638fa693a859b7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: B_L_Calf
+    100002: B_L_Foot
+    100004: B_L_Forearm
+    100006: B_L_Hand
+    100008: B_L_Thigh
+    100010: B_L_UpperArm
+    100012: B_Pelvis
+    100014: B_R_Calf
+    100016: B_R_Foot
+    100018: B_R_Forearm
+    100020: B_R_Hand
+    100022: B_R_Thigh
+    100024: B_R_UpperArm
+    100026: B_Spine
+    100028: PositionLocator
+    100030: //RootNode
+    100032: RobotInf
+    100034: B_Head
+    100036: B_Spine1
+    100038: RobotDrone
+    400000: B_L_Calf
+    400002: B_L_Foot
+    400004: B_L_Forearm
+    400006: B_L_Hand
+    400008: B_L_Thigh
+    400010: B_L_UpperArm
+    400012: B_Pelvis
+    400014: B_R_Calf
+    400016: B_R_Foot
+    400018: B_R_Forearm
+    400020: B_R_Hand
+    400022: B_R_Thigh
+    400024: B_R_UpperArm
+    400026: B_Spine
+    400028: PositionLocator
+    400030: //RootNode
+    400032: RobotInf
+    400034: B_Head
+    400036: B_Spine1
+    400038: RobotDrone
+    2300000: RobotInf
+    3300000: RobotInf
+    4300000: RobotInf
+    4300002: RobotDrone
+    7400002: run
+    11100000: //RootNode
+    13700000: RobotDrone
+    13700002: RobotInf
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PositionLocator
+        weight: 1
+      - path: PositionLocator/B_Pelvis
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_L_Thigh
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_L_Thigh/B_L_Calf
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_L_Thigh/B_L_Calf/B_L_Foot
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_R_Thigh
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_R_Thigh/B_R_Calf
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_R_Thigh/B_R_Calf/B_R_Foot
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_Spine
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_Spine/B_L_UpperArm
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_Spine/B_L_UpperArm/B_L_Forearm
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_Spine/B_L_UpperArm/B_L_Hand
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_Spine/B_R_UpperArm
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_Spine/B_R_UpperArm/B_R_Forearm
+        weight: 1
+      - path: PositionLocator/B_Pelvis/B_Spine/B_R_UpperArm/B_R_Hand
+        weight: 1
+      - path: RobotInf
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
