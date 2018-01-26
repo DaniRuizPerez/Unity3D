@@ -5,7 +5,7 @@ Unity 3D Game
 <img src="https://github.com/DaniRuizPerez/Unity3D/blob/master/intro.png" width="1000">
 </p>
 
-This was a project for the video games course in my senior year of my undergrad in computer science at UDC (Spain). The 58 pages report (Spanish) can be viewed [here](https://github.com/DaniRuizPerez/Unity3DGame/blob/master/Report.pdf) for further explanations.
+This was a project for the video games course in my senior year of my BS in computer science at UDC (Spain). The 58 pages report (Spanish) can be viewed [here](https://github.com/DaniRuizPerez/Unity3DGame/blob/master/Report.pdf) for further explanations.
 
 This is a 3D version of the 2D game implemented with PyGame, which can be viewed [here](https://github.com/DaniRuizPerez/Pygame2D)
 We developed the history and background for the game and implemented different maps, each with their own enemies. 
